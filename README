@@ -1,0 +1,1 @@
+EC.c is an FFMPEG-based error concealment algorithm using spatial polynomial interpolation of motion vectors
